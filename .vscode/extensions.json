@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "golang.go",
+        "msyrus.go-doc",
+        "aleksandra.go-group-imports",
+        "zsh.go-snippets",
+        "esbenp.prettier-vscode"
+    ]
+}
