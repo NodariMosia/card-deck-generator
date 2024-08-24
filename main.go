@@ -56,7 +56,7 @@ func getCardNamesToLayerFiles() (map[string][]string, error) {
 
 	// There are 4 types of files in inDir:
 	// 1. frame:   (name: "frame.png", exists only one)
-	// 2. content: (format: "symbol-suit.png.png", e.g. "4-clubs.png", "10-spades.png")
+	// 2. content: (format: "symbol-suit.png", e.g. "4-clubs.png", "10-spades.png")
 	// 3. symbol:  (format: "symbol-color.png", e.g. "4-black.png", "10-red.png")
 	// 4. suit:    (format: "suit.png", e.g. "hearts.png", "spades.png")
 
