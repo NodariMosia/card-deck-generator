@@ -20,4 +20,4 @@ go.work
 .DS_STORE
 
 # Output images
-output/
+# output/
